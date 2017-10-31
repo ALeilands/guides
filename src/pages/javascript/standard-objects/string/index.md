@@ -10,5 +10,5 @@ Unlike some other languages, JavaScript doesn't care if you use single `' '` or 
 #### More Information:
 <!-- Please add any articles you think might be helpful to read before writing the article -->
 
-[MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+[MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)</ br>
 [w3schools.com](https://www.w3schools.com/jsref/jsref_obj_string.asp)
